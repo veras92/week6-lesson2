@@ -1,0 +1,57 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+.upInfo {
+  display: block;
+  margin: 30px auto;
+  padding: 50px;
+  border: 1px solid #d2d2d2;
+  width: 70%;
+  border-radius: 3px;
+}
+i {
+  color: #f2f201;
+  font-size: 70px;
+  padding: none;
+}
+.row {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 40px;
+}
+.hum {
+  font-size: 40px;
+}
+.weatherCards {
+  display: block;
+  width: 68%;
+  margin: 30px auto;
+}
+.card-title {
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+}
+.warm {
+  color: #f2f201;
+}
+.cold {
+  color: #11caf0;
+}
+.card-text {
+  color: black;
+}
+.card {
+  text-align: center;
+}
+.searchBar {
+  width: 700px;
+  border-color: #d2d2d;
+  height: 38px;
+}
+.searchButton {
+  padding-top: 10px;
+}
+.weatherIcon {
+  font-size: 25px;
+}
