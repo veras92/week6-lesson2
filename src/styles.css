@@ -55,3 +55,8 @@ i {
 .weatherIcon {
   font-size: 25px;
 }
+.githubLink {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
